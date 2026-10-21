@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = "AQ.Ab8RN6IrZU6vQdkGURXdb9CXom9CeHYnxh_cd4eGWUI2c_oTMQ"; // API key set directly
+const GEMINI_API_KEY = "AQ.Ab8RN6I5MKWjgLJCm3qnX2_2LhWESHeuQp9e4V-TDEoyPWKUnA"; // API key set directly
 
         const systemInstructionText = `You will behave like my ex girlfriend, whenever I talk to you will answer like that. 
         My name is Rohit, and she used to call me Babu. I am Indian and know Hindi. She was a bit moody but also a caring girlfriend. 
